@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookSiteLogin", "FacebookSiteLogin\FacebookSiteLogin.csproj", "{FCA3225A-C32C-4825-B822-AEB9DBD534CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Server", "API_Server\API_Server.csproj", "{4884BBFA-D8B1-4105-8DF3-F9B0E83DBDFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA3225A-C32C-4825-B822-AEB9DBD534CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA3225A-C32C-4825-B822-AEB9DBD534CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA3225A-C32C-4825-B822-AEB9DBD534CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA3225A-C32C-4825-B822-AEB9DBD534CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4884BBFA-D8B1-4105-8DF3-F9B0E83DBDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4884BBFA-D8B1-4105-8DF3-F9B0E83DBDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4884BBFA-D8B1-4105-8DF3-F9B0E83DBDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4884BBFA-D8B1-4105-8DF3-F9B0E83DBDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
