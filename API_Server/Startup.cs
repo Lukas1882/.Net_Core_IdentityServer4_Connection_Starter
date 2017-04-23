@@ -42,7 +42,6 @@ namespace API_Server
             {
                 Authority = "http://localhost:65404",
                 RequireHttpsMetadata = false,
-
                 ApiName = "api1"
             });
             app.UseMvc();

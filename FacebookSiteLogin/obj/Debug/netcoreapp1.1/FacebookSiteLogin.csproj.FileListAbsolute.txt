@@ -7,3 +7,11 @@ c:\Users\Luke\documents\visual studio 2017\Projects\Helper\FacebookSiteLogin\Fac
 c:\Users\Luke\documents\visual studio 2017\Projects\Helper\FacebookSiteLogin\FacebookSiteLogin\bin\Debug\netcoreapp1.1\FacebookSiteLogin.pdb
 c:\Users\Luke\documents\visual studio 2017\Projects\Helper\FacebookSiteLogin\FacebookSiteLogin\obj\Debug\netcoreapp1.1\FacebookSiteLogin.dll
 c:\Users\Luke\documents\visual studio 2017\Projects\Helper\FacebookSiteLogin\FacebookSiteLogin\obj\Debug\netcoreapp1.1\FacebookSiteLogin.pdb
+C:\Users\Luke\Documents\visual studio 2017\Projects\FacebookSiteLogin\FacebookSiteLogin\bin\Debug\netcoreapp1.1\FacebookSiteLogin.deps.json
+C:\Users\Luke\Documents\visual studio 2017\Projects\FacebookSiteLogin\FacebookSiteLogin\bin\Debug\netcoreapp1.1\FacebookSiteLogin.runtimeconfig.json
+C:\Users\Luke\Documents\visual studio 2017\Projects\FacebookSiteLogin\FacebookSiteLogin\bin\Debug\netcoreapp1.1\FacebookSiteLogin.runtimeconfig.dev.json
+C:\Users\Luke\Documents\visual studio 2017\Projects\FacebookSiteLogin\FacebookSiteLogin\bin\Debug\netcoreapp1.1\FacebookSiteLogin.dll
+C:\Users\Luke\Documents\visual studio 2017\Projects\FacebookSiteLogin\FacebookSiteLogin\bin\Debug\netcoreapp1.1\FacebookSiteLogin.pdb
+C:\Users\Luke\Documents\visual studio 2017\Projects\FacebookSiteLogin\FacebookSiteLogin\obj\Debug\netcoreapp1.1\FacebookSiteLogin.AssemblyInfo.cs
+C:\Users\Luke\Documents\visual studio 2017\Projects\FacebookSiteLogin\FacebookSiteLogin\obj\Debug\netcoreapp1.1\FacebookSiteLogin.dll
+C:\Users\Luke\Documents\visual studio 2017\Projects\FacebookSiteLogin\FacebookSiteLogin\obj\Debug\netcoreapp1.1\FacebookSiteLogin.pdb
