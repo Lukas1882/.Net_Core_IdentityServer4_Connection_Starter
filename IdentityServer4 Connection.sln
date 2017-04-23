@@ -3,17 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookSiteLogin", "FacebookSiteLogin\FacebookSiteLogin.csproj", "{FCA3225A-C32C-4825-B822-AEB9DBD534CD}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Server", "API_Server\API_Server.csproj", "{4884BBFA-D8B1-4105-8DF3-F9B0E83DBDFE}"
-	ProjectSection(ProjectDependencies) = postProject
-		{FCA3225A-C32C-4825-B822-AEB9DBD534CD} = {FCA3225A-C32C-4825-B822-AEB9DBD534CD}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientAPP", "ClientAPP\ClientAPP.csproj", "{8021AB39-4FBF-47A2-BCBD-D731CBA9E6A3}"
 	ProjectSection(ProjectDependencies) = postProject
 		{4884BBFA-D8B1-4105-8DF3-F9B0E83DBDFE} = {4884BBFA-D8B1-4105-8DF3-F9B0E83DBDFE}
 	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServer4_Server", "IdentityServer4_Server\IdentityServer4_Server.csproj", "{DC985603-912D-4459-B90F-01C06AFB66E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +18,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FCA3225A-C32C-4825-B822-AEB9DBD534CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FCA3225A-C32C-4825-B822-AEB9DBD534CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FCA3225A-C32C-4825-B822-AEB9DBD534CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FCA3225A-C32C-4825-B822-AEB9DBD534CD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4884BBFA-D8B1-4105-8DF3-F9B0E83DBDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4884BBFA-D8B1-4105-8DF3-F9B0E83DBDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4884BBFA-D8B1-4105-8DF3-F9B0E83DBDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +26,10 @@ Global
 		{8021AB39-4FBF-47A2-BCBD-D731CBA9E6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8021AB39-4FBF-47A2-BCBD-D731CBA9E6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8021AB39-4FBF-47A2-BCBD-D731CBA9E6A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC985603-912D-4459-B90F-01C06AFB66E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC985603-912D-4459-B90F-01C06AFB66E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC985603-912D-4459-B90F-01C06AFB66E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC985603-912D-4459-B90F-01C06AFB66E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

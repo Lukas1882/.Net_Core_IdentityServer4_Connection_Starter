@@ -7282,10 +7282,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luke\\Documents\\visual studio 2017\\Projects\\FacebookSiteLogin\\ClientAPP\\ClientAPP.csproj",
+      "projectUniqueName": "C:\\Users\\Luke\\Documents\\visual studio 2017\\Projects\\new\\.Net_Core_IdentityServer4_Connection_Starter\\ClientAPP\\ClientAPP.csproj",
       "projectName": "ClientAPP",
-      "projectPath": "C:\\Users\\Luke\\Documents\\visual studio 2017\\Projects\\FacebookSiteLogin\\ClientAPP\\ClientAPP.csproj",
-      "outputPath": "C:\\Users\\Luke\\Documents\\visual studio 2017\\Projects\\FacebookSiteLogin\\ClientAPP\\obj\\",
+      "projectPath": "C:\\Users\\Luke\\Documents\\visual studio 2017\\Projects\\new\\.Net_Core_IdentityServer4_Connection_Starter\\ClientAPP\\ClientAPP.csproj",
+      "outputPath": "C:\\Users\\Luke\\Documents\\visual studio 2017\\Projects\\new\\.Net_Core_IdentityServer4_Connection_Starter\\ClientAPP\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
