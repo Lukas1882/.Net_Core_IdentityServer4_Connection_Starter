@@ -7,3 +7,12 @@ C:\Users\Luke\Documents\Visual Studio 2017\Projects\new\.Net_Core_IdentityServer
 C:\Users\Luke\Documents\Visual Studio 2017\Projects\new\.Net_Core_IdentityServer4_Connection_Starter\IdentityServer4_Server\obj\Debug\netcoreapp1.1\IdentityServer4_Server.AssemblyInfo.cs
 C:\Users\Luke\Documents\Visual Studio 2017\Projects\new\.Net_Core_IdentityServer4_Connection_Starter\IdentityServer4_Server\obj\Debug\netcoreapp1.1\IdentityServer4_Server.dll
 C:\Users\Luke\Documents\Visual Studio 2017\Projects\new\.Net_Core_IdentityServer4_Connection_Starter\IdentityServer4_Server\obj\Debug\netcoreapp1.1\IdentityServer4_Server.pdb
+C:\Users\Luke\Source\Repos\.Net_Core_IdentityServer4_Connection_Starter\IdentityServer4_Server\bin\Debug\netcoreapp1.1\IdentityServer4_Server.deps.json
+C:\Users\Luke\Source\Repos\.Net_Core_IdentityServer4_Connection_Starter\IdentityServer4_Server\bin\Debug\netcoreapp1.1\IdentityServer4_Server.runtimeconfig.json
+C:\Users\Luke\Source\Repos\.Net_Core_IdentityServer4_Connection_Starter\IdentityServer4_Server\bin\Debug\netcoreapp1.1\IdentityServer4_Server.runtimeconfig.dev.json
+C:\Users\Luke\Source\Repos\.Net_Core_IdentityServer4_Connection_Starter\IdentityServer4_Server\bin\Debug\netcoreapp1.1\IdentityServer4_Server.dll
+C:\Users\Luke\Source\Repos\.Net_Core_IdentityServer4_Connection_Starter\IdentityServer4_Server\bin\Debug\netcoreapp1.1\IdentityServer4_Server.pdb
+C:\Users\Luke\Source\Repos\.Net_Core_IdentityServer4_Connection_Starter\IdentityServer4_Server\obj\Debug\netcoreapp1.1\IdentityServer4_Server.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Source\Repos\.Net_Core_IdentityServer4_Connection_Starter\IdentityServer4_Server\obj\Debug\netcoreapp1.1\IdentityServer4_Server.AssemblyInfo.cs
+C:\Users\Luke\Source\Repos\.Net_Core_IdentityServer4_Connection_Starter\IdentityServer4_Server\obj\Debug\netcoreapp1.1\IdentityServer4_Server.dll
+C:\Users\Luke\Source\Repos\.Net_Core_IdentityServer4_Connection_Starter\IdentityServer4_Server\obj\Debug\netcoreapp1.1\IdentityServer4_Server.pdb

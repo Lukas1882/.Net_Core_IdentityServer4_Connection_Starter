@@ -10385,10 +10385,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luke\\Documents\\Visual Studio 2017\\Projects\\new\\.Net_Core_IdentityServer4_Connection_Starter\\IdentityServer4_Server\\IdentityServer4_Server.csproj",
+      "projectUniqueName": "C:\\Users\\Luke\\Source\\Repos\\.Net_Core_IdentityServer4_Connection_Starter\\IdentityServer4_Server\\IdentityServer4_Server.csproj",
       "projectName": "IdentityServer4_Server",
-      "projectPath": "C:\\Users\\Luke\\Documents\\Visual Studio 2017\\Projects\\new\\.Net_Core_IdentityServer4_Connection_Starter\\IdentityServer4_Server\\IdentityServer4_Server.csproj",
-      "outputPath": "C:\\Users\\Luke\\Documents\\Visual Studio 2017\\Projects\\new\\.Net_Core_IdentityServer4_Connection_Starter\\IdentityServer4_Server\\obj\\",
+      "projectPath": "C:\\Users\\Luke\\Source\\Repos\\.Net_Core_IdentityServer4_Connection_Starter\\IdentityServer4_Server\\IdentityServer4_Server.csproj",
+      "outputPath": "C:\\Users\\Luke\\Source\\Repos\\.Net_Core_IdentityServer4_Connection_Starter\\IdentityServer4_Server\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

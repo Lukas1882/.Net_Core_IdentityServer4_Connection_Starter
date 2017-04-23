@@ -6,3 +6,12 @@ C:\Users\Luke\Documents\visual studio 2017\Projects\FacebookSiteLogin\ClientAPP\
 C:\Users\Luke\Documents\visual studio 2017\Projects\FacebookSiteLogin\ClientAPP\bin\Debug\netcoreapp1.1\ClientAPP.pdb
 C:\Users\Luke\Documents\visual studio 2017\Projects\FacebookSiteLogin\ClientAPP\obj\Debug\netcoreapp1.1\ClientAPP.dll
 C:\Users\Luke\Documents\visual studio 2017\Projects\FacebookSiteLogin\ClientAPP\obj\Debug\netcoreapp1.1\ClientAPP.pdb
+C:\Users\Luke\Source\Repos\.Net_Core_IdentityServer4_Connection_Starter\ClientAPP\bin\Debug\netcoreapp1.1\ClientAPP.deps.json
+C:\Users\Luke\Source\Repos\.Net_Core_IdentityServer4_Connection_Starter\ClientAPP\bin\Debug\netcoreapp1.1\ClientAPP.runtimeconfig.json
+C:\Users\Luke\Source\Repos\.Net_Core_IdentityServer4_Connection_Starter\ClientAPP\bin\Debug\netcoreapp1.1\ClientAPP.runtimeconfig.dev.json
+C:\Users\Luke\Source\Repos\.Net_Core_IdentityServer4_Connection_Starter\ClientAPP\bin\Debug\netcoreapp1.1\ClientAPP.dll
+C:\Users\Luke\Source\Repos\.Net_Core_IdentityServer4_Connection_Starter\ClientAPP\bin\Debug\netcoreapp1.1\ClientAPP.pdb
+C:\Users\Luke\Source\Repos\.Net_Core_IdentityServer4_Connection_Starter\ClientAPP\obj\Debug\netcoreapp1.1\ClientAPP.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Source\Repos\.Net_Core_IdentityServer4_Connection_Starter\ClientAPP\obj\Debug\netcoreapp1.1\ClientAPP.AssemblyInfo.cs
+C:\Users\Luke\Source\Repos\.Net_Core_IdentityServer4_Connection_Starter\ClientAPP\obj\Debug\netcoreapp1.1\ClientAPP.dll
+C:\Users\Luke\Source\Repos\.Net_Core_IdentityServer4_Connection_Starter\ClientAPP\obj\Debug\netcoreapp1.1\ClientAPP.pdb
