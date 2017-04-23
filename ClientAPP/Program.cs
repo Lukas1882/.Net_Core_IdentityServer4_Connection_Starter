@@ -13,7 +13,6 @@ namespace ClientAPP
             Console.ReadLine();
         }
 
-
         static async void CallAPIAsync()
         {
             var discoveryClient = new DiscoveryClient("http://localhost:65404");
