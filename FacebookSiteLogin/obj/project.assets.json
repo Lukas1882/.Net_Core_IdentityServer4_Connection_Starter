@@ -10385,9 +10385,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luke\\Documents\\visual studio 2017\\Projects\\FacebookSiteLogin\\FacebookSiteLogin\\FacebookSiteLogin.csproj",
-      "projectName": "FacebookSiteLogin",
-      "projectPath": "C:\\Users\\Luke\\Documents\\visual studio 2017\\Projects\\FacebookSiteLogin\\FacebookSiteLogin\\FacebookSiteLogin.csproj",
+      "projectUniqueName": "C:\\Users\\Luke\\Documents\\visual studio 2017\\Projects\\FacebookSiteLogin\\FacebookSiteLogin\\IdentityServer4_Server.csproj",
+      "projectName": "IdentityServer4_Server",
+      "projectPath": "C:\\Users\\Luke\\Documents\\visual studio 2017\\Projects\\FacebookSiteLogin\\FacebookSiteLogin\\IdentityServer4_Server.csproj",
       "outputPath": "C:\\Users\\Luke\\Documents\\visual studio 2017\\Projects\\FacebookSiteLogin\\FacebookSiteLogin\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [

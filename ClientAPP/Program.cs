@@ -27,20 +27,17 @@ namespace ClientAPP
             if (tokenResponse.IsError)
             {
                 Console.WriteLine(tokenResponse.Error);
-              
                 return;
             }
 
             Console.WriteLine(tokenResponse.Json);
- 
-
 
             var client = new HttpClient();
             client.SetBearerToken(tokenResponse.AccessToken);
 
             var response = await client.GetAsync("http://localhost:58436/identity");
             if (!response.IsSuccessStatusCode)
-            {   
+            {
                 Console.WriteLine(response.StatusCode);
             }
             else
