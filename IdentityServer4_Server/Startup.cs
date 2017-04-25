@@ -28,9 +28,11 @@ namespace FacebookSiteLogin
         {
             // Add framework services.
             services.AddIdentityServer()
-       .AddTemporarySigningCredential()
-       .AddInMemoryApiResources(Config.GetApiResources())
-       .AddInMemoryClients(Config.GetClients());
+               .AddTemporarySigningCredential()
+               .AddInMemoryApiResources(Config.GetApiResources())
+               //.AddInMemoryClients(Config.GetClients())
+               .AddTestUsers(Config.GetUsers())
+               .AddInMemoryClients(Config.GetClients2());
             services.AddMvc();
         }
 
